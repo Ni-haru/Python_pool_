@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: ft_package
+Version: 0.0.1
+Summary: A sample test package
+Author: Nihal
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# ft_package
+
+A sample Python package created for the 42 Python Piscine.
+
+## Description
+
+This package contains a simple function called `count_in_list`
+that counts how many times an item appears in a list.
+
+## Installation
+
+Build the package with:
+
+```bash
+python3 -m build
